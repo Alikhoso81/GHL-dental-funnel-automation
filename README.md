@@ -22,14 +22,14 @@ Manual follow-up is where leads die. This repo documents a system built to close
 
 The full build is broken into 6 parts. Watch in order to reproduce the system from scratch:
 
-| # | Title | Link |
+| # | Title |
 |---|---|---|
-| 1 | Overview & Planning | [Watch](http://www.youtube.com/watch?v=Fn7VM3ZTKfg) |
-| 2 | Creating Pipeline, Form, and Calendar | [Watch](http://www.youtube.com/watch?v=IsVLXDfhlrc) |
-| 3 | Creating Funnel Pages | [Watch](http://www.youtube.com/watch?v=8Dq--1P7vyY) |
-| 4 | Setup Follow-Ups & Booking Confirmation + Reminders | [Watch](http://www.youtube.com/watch?v=ysZ8qSuBSAM) |
-| 5 | Appointment Cancelled & No-Show Automation | [Watch](http://www.youtube.com/watch?v=UMmMolpBSYg) |
-| 6 | Handling No-Show/Attended Bookings Automatically | [Watch](http://www.youtube.com/watch?v=LEkfFQyYUgQ) |
+| 1 | Overview & Planning |
+| 2 | Creating Pipeline, Form, and Calendar |
+| 3 | Creating Funnel Pages |
+| 4 | Setup Follow-Ups & Booking Confirmation + Reminders |
+| 5 | Appointment Cancelled & No-Show Automation |
+| 6 | Handling No-Show/Attended Bookings Automatically |
 
 ---
 
